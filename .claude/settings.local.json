@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m http.server:*)",
+      "Bash(start:*)",
+      "Bash(del \"c:\\\\Users\\\\W1ldcard\\\\Documents\\\\programming\\\\space_hamster\\\\js\\\\config\\\\LevelData.js\")",
+      "Bash(dir:*)"
+    ]
+  }
+}
